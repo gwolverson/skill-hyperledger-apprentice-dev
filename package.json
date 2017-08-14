@@ -1,0 +1,19 @@
+{
+  "name": "skill-template",
+  "version": "1.0.0",
+  "description": "Template for a 'skill'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Capgemini/skill-template.git"
+  },
+  "author": "Greg Wolverson <gwolverson0509@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Capgemini/skill-template/issues"
+  },
+  "homepage": "https://github.com/Capgemini/skill-template#readme"
+}
