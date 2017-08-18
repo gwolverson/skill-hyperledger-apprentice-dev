@@ -1,7 +1,7 @@
 {
   "name": "skill-hyperledger-apprentice-dev",
-  "version": "1.0.0",
-  "description": "Template for a 'skill'",
+  "version": "github:gwolverson/skill-hyperledger-apprentice-dev",
+  "description": "Skill: Hyperledger apprentice dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
